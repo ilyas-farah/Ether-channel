@@ -19,3 +19,4 @@ trunk
 ---------
 int port-channel 2
 switchport mode trunk
+![spanning tree](https://user-images.githubusercontent.com/106605770/177991366-3dbbc651-d177-4e4a-9005-340c1a214605.jpg)
